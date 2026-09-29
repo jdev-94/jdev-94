@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <h1>¡Hola! Soy Rodrigo</h1>
   <p align="center">
-    <strong>Desarrollador Web | +1 Año de Experiencia Profesional | Laravel & PHP</strong>
+    <strong>Desarrollador Web | +2 Año de Experiencia Profesional | Laravel & PHP</strong>
   </p>
 
   <p align="center">
@@ -14,8 +14,8 @@
 ---
 
 ### 🚀 Sobre mí
+- 🎓 **Formación:** Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
 - 💻 **Experiencia Profesional:** Cuento con más de **1 año de trayectoria** desarrollando con **Laravel**.
-- 🎓 **Evolución Continua:** Actualmente expandiendo mis habilidades hacia el Frontend moderno **aprendiendo React y Next.js**.
 - 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
 
 ---
@@ -28,7 +28,6 @@
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=php,laravel" height="40" /> |
 | <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="40" /> |
-| <img src="https://img.shields.io/badge/Aprendiendo-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" /> |
 | <img src="https://img.shields.io/badge/Database-000?style=for-the-badge" height="25"> | <img src="https://skillicons.dev/icons?i=mysql" height="40" /> |
 
 </div>
