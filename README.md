@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mí
 - 🎓 **Formación:** Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
-- 💻 **Experiencia Profesional:** Cuento con más de **1 año de trayectoria** desarrollando con **Laravel**.
+- 💻 **Experiencia Profesional:** Cuento con más de **2 años de trayectoria** desarrollando con **Laravel**.
 - 🎨 **Frontend:** Creando interfaces modernas y responsivas usando **Tailwind CSS**.
 
 ---
