@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <h1>¡Hola! Soy Rodrigo</h1>
   <p align="center">
-    <strong>Desarrollador Web | +2 Año de Experiencia Profesional | Laravel & PHP</strong>
+    <strong>Desarrollador Web | +2 Años de Experiencia Profesional | Laravel & PHP</strong>
   </p>
 
   <p align="center">
